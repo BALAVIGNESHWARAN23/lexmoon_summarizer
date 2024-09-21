@@ -67,8 +67,8 @@ st.markdown('''
             <div class="collapse navbar-collapse" id="navbarnav">
                 <ul class="navbar-nav ms-auto fs-5 text-white">
                     <li class="nav-item"><a class="nav-link" href="#home"><i class='bx bxs-home'></i>Home</a></li>
-                    <li class="nav-item"><a class="nav-link" href="http://localhost:3000/about.html#about"><i class='bx bxs-user'></i>About</a></li>
-                    <li class="nav-item"><a class="nav-link" href="http://localhost:3000/about.html#contact"><i class='bx bxs-envelope'></i>Contact</a></li>
+                    <li class="nav-item"><a class="nav-link" href="https://lexmoon-mal8.onrender.com/about.html#about"><i class='bx bxs-user'></i>About</a></li>
+                    <li class="nav-item"><a class="nav-link" href="https://lexmoon-mal8.onrender.com/about.html#contact"><i class='bx bxs-envelope'></i>Contact</a></li>
                 </ul>
             </div>
         </div>
