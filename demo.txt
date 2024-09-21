@@ -1,31 +1,25 @@
-Case: Waman Rao And Ors vs Union Of India (Uoi) And Ors.
+Case: P Jayakrishnaa
 
-Appeal
+This document is a detailed career summary and resume for P Jayakrishnaa, who is currently a student pursuing a Bachelor of Technology in Computer Science and Engineering at SRM Institute of Science and Technology, Vadapalani, Chennai.
 
-**Facts:**
-This case revolves around the constitutionality of certain amendments and Acts in the Indian Constitution, specifically those enacting agrarian reforms in Maharashtra. The Maharashtra Agricultural Lands (Ceiling on Holdings) Act, 1961, which imposed a ceiling on agricultural land holdings, was amended multiple times leading to a flurry of petitions challenging its validity on the grounds that it violated the rights guaranteed under Part III of the Constitution, including Articles 14 and 19. These Acts were added to the Ninth Schedule of the Constitution, which protects laws from being challenged for violating fundamental rights.
+Facts:
+- P Jayakrishnaa completed his high school education at Trinity Lyceum, Kollam, finishing in 2020.
+- He has had diverse work experiences including roles as a Junior Digital Marketing Analyst at DJ Computing, a core member of Google Developer Groups (GDG) Chennai, and a co-organizer for the Microsoft Azure Developers Community in Chennai.
+- Jayakrishnaa has been active in various capacities such as a campus ambassador for MyCaptain, and has organized multiple high-profile tech events.
+- His technical skills include AI, Cloud Computing, Metaverse, IoT, Data Analytics, and DBMS, while his non-technical skills encompass Digital Marketing, Entrepreneurship, Sales, Event Management, Strategic Management, and Product Development.
+- Languages known include English, Malayalam, Tamil, Telugu, and Hindi.
+- He holds certifications from Coursera and MyCaptain and has actively participated in conferences and workshops.
 
-**Issues:**
-1. Whether Articles 31A, 31B, and the unamended Article 31C of the Constitution violate the basic structure of the Constitution by abridging fundamental rights.
-2. Whether the Acts placed in the Ninth Schedule after the judgment in Kesavananda Bharati's case are valid and immune from fundamental rights challenges.
-3. Whether the doctrine of stare decisis (following judicial precedents) can save these constitutional amendments if found violative of the basic structure.
-4. The validity of proclamations of emergency and the extension of the term of the Lok Sabha under the guise of such emergencies.
+Issues:
+- The document does not list any specific issues to be addressed; it is a straightforward depiction of qualifications, experiences, and skills.
 
-**Judgements Reviewed:**
-1. The Bombay High Court in Vithalrao Udhaorao Uttarwar v. State of Maharashtra held that the Acts in question were immune from challenge as they were placed in the Ninth Schedule by amendments which are presumably for agrarian reforms.
-2. The appeals against this judgment included the landmark judgment of the Supreme Court in Kesavananda Bharati, which established the principle that constitutional amendments cannot alter the basic structure of the Constitution.
+Judgements:
+- While this is not a legal document involving court judgements, it represents Jayakrishnaa's credentials, reflecting his commitment to professional development and hands-on experience across various domains.
 
-**Judges' Observations and Applicable Laws:**
-- The Supreme Court considered the contention of the petitioners that their rights under Articles 14 and 19 were violated by these laws.
-- Articles 31A, 31B, and Article 31C were specifically designed to protect laws from being challenged on the grounds that they abridge the fundamental rights enshrined in the Constitution.
-- The judges also invoked past landmark cases like Kesavananda Bharati and Minerva Mills to discuss the implications of making constitutional amendments immune from judicial review.
-- The Court underlined the importance of the basic structure doctrine and stated that even though amendments are essential, they must not violate or damage the basic structure of the Constitution.
+Observations:
+- Jayakrishnaa’s involvement in organizing significant tech events and conferences highlights his skills in leadership and community engagement.
+- His participation in roles at multiple organizations demonstrates a proactive approach and multifaceted skill set.
+- The resume showcases a balance of technical prowess and practical experience in marketing and event organization.
 
-**Final Judgement:**
-1. **Articles 31A and 31B**: The Court upheld the constitutional validity of Articles 31A and 31B. It held that these articles did not damage or destroy the basic structure of the Constitution and emphasized that Article 31A was crucial for securing agrarian reforms, which is a significant constitutional goal.
-2. **Ninth Schedule**: The Court delineated that Acts and Regulations included in the Ninth Schedule before April 24, 1973 (the date of the judgment in Kesavananda Bharati) would receive protection under Article 31B. Any laws included in the Ninth Schedule after this date would not automatically receive this protection and would need to be scrutinized to ensure they do not violate the basic structure of the Constitution.
-3. **Article 31C (Unamended)**: The Court affirmed the validity of the unamended Article 31C, which protects laws designed to implement the Directive Principles of State Policy.
-4. **Proclamations of Emergency and Extension of Lok Sabha**: The Court did not find sufficient evidence to declare the extensions unconstitutional. The proclamations and the subsequent extension of the Lok Sabha's term were upheld.
-
-**Conclusion:**
-The Supreme Court of India, through this judgment, reinforced the basic structure doctrine, ensuring that any constitutional amendment cannot alter the fundamental essence of the Constitution. The judgment upheld the agrarian reform laws in question and delineated a clear boundary for the application of Article 31B, confirming the Court's role as a guardian of constitutional integrity and fundamental rights.
+Conclusion:
+P Jayakrishnaa is a well-rounded individual with a strong educational background, a robust portfolio of tech-based experiences, and the ability to manage and lead projects. His drive for learning and contributing to tech communities positions him as a promising candidate for future opportunities in the tech industry.
