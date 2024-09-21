@@ -15,7 +15,7 @@ openai.api_key = os.getenv("OPENAI_API_KEY")
 os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = os.getenv("APP-CRED")
 
 # Set page config with custom icon
-im = Image.open("D:/githubreptasks/lexmoon_summarizer/iwimg/20240917_222343.png")
+im = Image.open("/lexmoon_summarizer/iwimg/20240917_222343.png")
 st.set_page_config(
     page_title="Lexmoon",
     page_icon=im,

@@ -1,25 +1,25 @@
-Case: P Jayakrishnaa
+Case: Waman Rao And Ors vs Union Of India (Uoi) And Ors.
 
-This document is a detailed career summary and resume for P Jayakrishnaa, who is currently a student pursuing a Bachelor of Technology in Computer Science and Engineering at SRM Institute of Science and Technology, Vadapalani, Chennai.
+Appeal
 
 Facts:
-- P Jayakrishnaa completed his high school education at Trinity Lyceum, Kollam, finishing in 2020.
-- He has had diverse work experiences including roles as a Junior Digital Marketing Analyst at DJ Computing, a core member of Google Developer Groups (GDG) Chennai, and a co-organizer for the Microsoft Azure Developers Community in Chennai.
-- Jayakrishnaa has been active in various capacities such as a campus ambassador for MyCaptain, and has organized multiple high-profile tech events.
-- His technical skills include AI, Cloud Computing, Metaverse, IoT, Data Analytics, and DBMS, while his non-technical skills encompass Digital Marketing, Entrepreneurship, Sales, Event Management, Strategic Management, and Product Development.
-- Languages known include English, Malayalam, Tamil, Telugu, and Hindi.
-- He holds certifications from Coursera and MyCaptain and has actively participated in conferences and workshops.
+The case concerns a legal challenge to the Maharashtra Agricultural Lands (Ceiling on Holdings) Act, 27 of 1961, and its subsequent amendments by Acts 21 of 1975, 41 of 1975, and 2 of 1976. Initially, the Bombay High Court upheld the Act, rejecting claims that it violated the rights conferred by Part III of the Constitution, as the provisions were placed in the Ninth Schedule by the Constitution's 17th and 40th Amendments. The High Court ruled that Article 31B, introduced by the First Amendment Act, 1951, strengthened the Constitution's basic structure. The petitioners argued that specific amendments created an artificial 'family unit' and were beyond the purview of Article 31A, challenging them on various grounds.
 
 Issues:
-- The document does not list any specific issues to be addressed; it is a straightforward depiction of qualifications, experiences, and skills.
+- The primary issue is whether Articles 31A, 31B, and the unamended Article 31C of the Constitution are valid, and if they damage or destroy the basic structure of the Constitution as defined in Kesavananda Bharati.
+- Another issue is whether the laws included in the Ninth Schedule after the decision in Kesavananda Bharati can be challenged.
 
-Judgements:
-- While this is not a legal document involving court judgements, it represents Jayakrishnaa's credentials, reflecting his commitment to professional development and hands-on experience across various domains.
+Previous Hearings:
+The validity of the challenged acts and constitutional amendments was previously upheld by this Court in Dattatraya Govind Mahajan v. State of Maharashtra, holding that the amended Principal Act did not violate the second proviso to Article 31A(1), and that Article 31B protected the Acts included in the Ninth Schedule from such challenges. The Court also reviewed whether later proclamations of emergency and extensions of the Lok Sabha's term were valid.
 
-Observations:
-- Jayakrishnaa’s involvement in organizing significant tech events and conferences highlights his skills in leadership and community engagement.
-- His participation in roles at multiple organizations demonstrates a proactive approach and multifaceted skill set.
-- The resume showcases a balance of technical prowess and practical experience in marketing and event organization.
+Judgment:
+The Court reaffirmed the previous judgements, rejecting the petitioners' appeals.
+
+Judge’s Observations:
+Chief Justice Chandrachud's observations focused on the history, purpose, and legal precedent of agrarian reforms and basic structure doctrine. The judgment reiterated the findings and philosophy established in cases such as Kesavananda Bharati, which established that fundamental constitutional features cannot be altered by amendments. The majority in Kesavananda Bharati upheld the first part of Article 31C while striking down its conclusive declaration provision. The Court emphasized the importance of agrarian reforms as essential to the Constitution's objectives.
 
 Conclusion:
-P Jayakrishnaa is a well-rounded individual with a strong educational background, a robust portfolio of tech-based experiences, and the ability to manage and lead projects. His drive for learning and contributing to tech communities positions him as a promising candidate for future opportunities in the tech industry.
+- The Court upheld the constitutional validity of the First and Fourth Amendments introducing and amending Articles 31A, 31B while affirming that no provisions of Part III of the Constitution invalidate the Acts included in the Ninth Schedule prior to April 24, 1973.
+- The validity of laws included in the Ninth Schedule after April 24, 1973, was made conditional on their consistency with the basic structure of the Constitution.
+- The unamended Article 31C's protection was affirmed within the scope validated by Kesavananda Bharati.
+- The writ petitions and review petitions challenging the Maharashtra Agricultural Lands Ceiling Acts were dismissed.
