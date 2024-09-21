@@ -1,24 +1,28 @@
-Case: P Jayakrishnaa
+Case: Waman Rao And Ors vs Union Of India (Uoi) And Ors.
 
-Petition: Application for professional engagement or educational opportunity.
+Appeal
 
 Facts:
-- The petitioner is a learner and budding entrepreneur with active participation in conferences and workshops.
-- Completed a Bachelor of Technology in Computer Science and Engineering from SRM Institute of Science and Technology, with a CGPA of 8.50.
-- Previous educational qualifications include high school and higher secondary education from Trinity Lyceum, Kollam.
-- Experienced in digital marketing, community organizing, and brand ambassadorship through roles at DJ Computing, Google Developer Groups Chennai, Microsoft Azure Developers Community Chennai, and MyCaptain.
-- Developed skills in AI, Cloud Computing, Metaverse, IoT, Data Analytics, and DBMS, with additional non-technical skills in Digital Marketing, Entrepreneurship, Sales, Advertisement and Marketing, Event Management, Strategic Management, and Product Development.
-- Multilingual, proficient in English, Malayalam, Tamil, Telugu, and Hindi.
+The Maharashtra Agricultural Lands (Ceiling on Holdings) Act, enacted in 1961, imposes a ceiling on agricultural holdings. Amendments to the Act in 1975 and 1976 further lowered the ceilings. The validity of these amendments was initially upheld by the Bombay High Court. Several petitioners challenged these amendments, arguing they violated fundamental rights under Part III of the Constitution. The amendments had been placed under the Ninth Schedule by the 17th and 40th Constitutional Amendment Acts, thereby allegedly insulating them from judicial review under Article 31B.
 
 Issues:
-- The petitioner seeks opportunities to leverage a combination of technical skills and practical experience.
-- Demonstrates the ability to handle responsibilities in digital marketing, event organization, community engagement, and advocacy through multiple roles and volunteer experiences.
+1. Whether the amendments to the Maharashtra Agricultural Lands Act damage the basic structure of the Constitution.
+2. Whether Articles 31A and 31B, which protect certain laws from judicial review, and the unamended Article 31C, violate the Constitution's basic structure.
+3. The continued validity of the proclamations of emergency issued on December 3, 1971, and June 25, 1975, and the subsequent extensions of the Lok Sabha.
 
-Previous Judgements:
-- Not applicable as this is a petition for professional/educational opportunity.
+Judgement and Previous Hearings:
+- Bombay High Court upheld the amendments.
+- Supreme Court in Dattatraya Govind Mahajan's case upheld these laws under the protection of Article 31B.
+- The petitions for review of the earlier judgment in Dattatraya Govind Mahajan due to post-emergency conditions were accepted by the Supreme Court.
 
 Judge’s Observations and Applicable Laws:
-- Observations are not relevant; this is a consideration of the petitioner's qualifications and experiences in a professional or academic context.
+- Article 31A: No law providing for the acquisition of any estate or rights therein by the State shall be void on the ground that it violates Articles 14 or 19.
+- Article 31B: Acts included in the Ninth Schedule cannot be voided for violating fundamental rights.
+- Articles 14, 19 (freedom and equality rights), and 31 (right to property, repealed and replaced) are pivotal in determining the basic structure.
+- Article 368 outlines the procedure and extent of constitutional amendments.
 
 Conclusion:
-- The petitioner, P Jayakrishnaa, showcases a strong educational background, practical experience in digital marketing and community engagement, and a wide array of technical and non-technical skills. He is well-suited for roles that require a blend of technical know-how, marketing acumen, and event management proficiency.
+1. Articles 31A and 31B do not damage the basic structure of the Constitution; thus, the amendments they protect are valid and constitutional.
+2. All laws placed in the Ninth Schedule before April 24, 1973, remain valid. However, those added after this date are subject to review under the Kesavananda Bharati judgement, which restricts amendments that harm the Constitution's basic structure.
+3. The proclamations of emergency and subsequent extensions of the Lok Sabha, while contentious, were deemed not to have violated the foundational structure of the Constitution.
+4. The result is that the appeal is dismissed, upholding the lower court's decisions and the validity of the Maharashtra Agricultural Lands (Ceiling on Holdings) Act and its amendments.
