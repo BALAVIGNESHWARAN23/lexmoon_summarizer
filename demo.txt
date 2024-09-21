@@ -1,44 +1,31 @@
-Case: P Jayakrishnaa
+Case: Waman Rao And Ors vs Union Of India (Uoi) And Ors.
 
-This document is a resume detailing the educational background, professional experience, skills, certifications, conferences, volunteer experiences, and interests of P Jayakrishnaa.
+Appeal
 
-**Education:**
-- Bachelor of Technology (B.Tech) in Computer Science and Engineering from SRM Institute of Science and Technology, Chennai (Oct 2020 - Jun 2024, CGPA: 8.50 till 7th semester)
-- High School from Trinity Lyceum, Kollam (ICSE 2018, ISC 2020)
+**Facts:**
+This case revolves around the constitutionality of certain amendments and Acts in the Indian Constitution, specifically those enacting agrarian reforms in Maharashtra. The Maharashtra Agricultural Lands (Ceiling on Holdings) Act, 1961, which imposed a ceiling on agricultural land holdings, was amended multiple times leading to a flurry of petitions challenging its validity on the grounds that it violated the rights guaranteed under Part III of the Constitution, including Articles 14 and 19. These Acts were added to the Ninth Schedule of the Constitution, which protects laws from being challenged for violating fundamental rights.
 
-**Professional Experience:**
-- **Junior Digital Marketing Analyst at DJ Computing (Dec 2023 - Mar 2024)**:
-  - Led lead generation initiatives on LinkedIn and other social media platforms for a healthcare software product in the US market.
-  - Increased brand visibility and engagement.
-- **Core Member of Google Developer Groups (GDG)- Chennai (Aug 2022 - Present)**:
-  - Organized tech events, collaborated with companies and colleges, and mentored aspiring developers.
-- **Co-organizer for Microsoft Azure Developers Community- Chennai (May 2022 - Present)**:
-  - Organized monthly events and spearheaded Asia's largest Azure conference.
-- **Campus Ambassador for MyCaptain, Bangalore (Oct 2021 - Feb 2022)**:
-  - Orchestrated marketing efforts to boost student engagement and promoted events.
+**Issues:**
+1. Whether Articles 31A, 31B, and the unamended Article 31C of the Constitution violate the basic structure of the Constitution by abridging fundamental rights.
+2. Whether the Acts placed in the Ninth Schedule after the judgment in Kesavananda Bharati's case are valid and immune from fundamental rights challenges.
+3. Whether the doctrine of stare decisis (following judicial precedents) can save these constitutional amendments if found violative of the basic structure.
+4. The validity of proclamations of emergency and the extension of the term of the Lok Sabha under the guise of such emergencies.
 
-**Skills:**
-- Technical: AI, Cloud Computing, Metaverse, IoT, Data Analytics, DBMS
-- Non-Technical: Digital Marketing, Entrepreneurship, Sales, Event Management, Strategic Management, Product Development
+**Judgements Reviewed:**
+1. The Bombay High Court in Vithalrao Udhaorao Uttarwar v. State of Maharashtra held that the Acts in question were immune from challenge as they were placed in the Ninth Schedule by amendments which are presumably for agrarian reforms.
+2. The appeals against this judgment included the landmark judgment of the Supreme Court in Kesavananda Bharati, which established the principle that constitutional amendments cannot alter the basic structure of the Constitution.
 
-**Languages:**
-- English, Malayalam, Tamil, Telugu, Hindi
+**Judges' Observations and Applicable Laws:**
+- The Supreme Court considered the contention of the petitioners that their rights under Articles 14 and 19 were violated by these laws.
+- Articles 31A, 31B, and Article 31C were specifically designed to protect laws from being challenged on the grounds that they abridge the fundamental rights enshrined in the Constitution.
+- The judges also invoked past landmark cases like Kesavananda Bharati and Minerva Mills to discuss the implications of making constitutional amendments immune from judicial review.
+- The Court underlined the importance of the basic structure doctrine and stated that even though amendments are essential, they must not violate or damage the basic structure of the Constitution.
 
-**Licenses & Certifications:**
-- "AI for Everyone" (2023) - Coursera
-- "Foundations: Data, Data, Everywhere" (2022) - Coursera
-- Letter of Endorsement for Campus Ambassador (2022) - MyCaptain
+**Final Judgement:**
+1. **Articles 31A and 31B**: The Court upheld the constitutional validity of Articles 31A and 31B. It held that these articles did not damage or destroy the basic structure of the Constitution and emphasized that Article 31A was crucial for securing agrarian reforms, which is a significant constitutional goal.
+2. **Ninth Schedule**: The Court delineated that Acts and Regulations included in the Ninth Schedule before April 24, 1973 (the date of the judgment in Kesavananda Bharati) would receive protection under Article 31B. Any laws included in the Ninth Schedule after this date would not automatically receive this protection and would need to be scrutinized to ensure they do not violate the basic structure of the Constitution.
+3. **Article 31C (Unamended)**: The Court affirmed the validity of the unamended Article 31C, which protects laws designed to implement the Directive Principles of State Policy.
+4. **Proclamations of Emergency and Extension of Lok Sabha**: The Court did not find sufficient evidence to declare the extensions unconstitutional. The proclamations and the subsequent extension of the Lok Sabha's term were upheld.
 
-**Conferences and Workshops:**
-- Azure Community Conference 2023
-- CTO Talk Annual Summit 2023
-- DevFest 2022 Chennai
-
-**Volunteer Experiences:**
-- Associate Member at Design and Innovation Club, SRM Vadapalani (Aug 2023 - Present)
-- Volunteer at Bhumi-NGO (Jul 2023 - Present)
-- Student Brand Ambassador for G20 (Feb 2022 – Oct 2023)
-- Member of Rotaract Club of SRM Vadapalani (Apr 2021 – Mar 2023)
-
-**Interests:**
-- Marathon running, athletics, cricket, sports, music
+**Conclusion:**
+The Supreme Court of India, through this judgment, reinforced the basic structure doctrine, ensuring that any constitutional amendment cannot alter the fundamental essence of the Constitution. The judgment upheld the agrarian reform laws in question and delineated a clear boundary for the application of Article 31B, confirming the Court's role as a guardian of constitutional integrity and fundamental rights.
