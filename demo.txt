@@ -1,28 +1,44 @@
-Case: Waman Rao And Ors vs Union Of India (Uoi) And Ors.
+Case: P Jayakrishnaa
 
-Appeal
+This document is a resume detailing the educational background, professional experience, skills, certifications, conferences, volunteer experiences, and interests of P Jayakrishnaa.
 
-Facts:
-The Maharashtra Agricultural Lands (Ceiling on Holdings) Act, enacted in 1961, imposes a ceiling on agricultural holdings. Amendments to the Act in 1975 and 1976 further lowered the ceilings. The validity of these amendments was initially upheld by the Bombay High Court. Several petitioners challenged these amendments, arguing they violated fundamental rights under Part III of the Constitution. The amendments had been placed under the Ninth Schedule by the 17th and 40th Constitutional Amendment Acts, thereby allegedly insulating them from judicial review under Article 31B.
+**Education:**
+- Bachelor of Technology (B.Tech) in Computer Science and Engineering from SRM Institute of Science and Technology, Chennai (Oct 2020 - Jun 2024, CGPA: 8.50 till 7th semester)
+- High School from Trinity Lyceum, Kollam (ICSE 2018, ISC 2020)
 
-Issues:
-1. Whether the amendments to the Maharashtra Agricultural Lands Act damage the basic structure of the Constitution.
-2. Whether Articles 31A and 31B, which protect certain laws from judicial review, and the unamended Article 31C, violate the Constitution's basic structure.
-3. The continued validity of the proclamations of emergency issued on December 3, 1971, and June 25, 1975, and the subsequent extensions of the Lok Sabha.
+**Professional Experience:**
+- **Junior Digital Marketing Analyst at DJ Computing (Dec 2023 - Mar 2024)**:
+  - Led lead generation initiatives on LinkedIn and other social media platforms for a healthcare software product in the US market.
+  - Increased brand visibility and engagement.
+- **Core Member of Google Developer Groups (GDG)- Chennai (Aug 2022 - Present)**:
+  - Organized tech events, collaborated with companies and colleges, and mentored aspiring developers.
+- **Co-organizer for Microsoft Azure Developers Community- Chennai (May 2022 - Present)**:
+  - Organized monthly events and spearheaded Asia's largest Azure conference.
+- **Campus Ambassador for MyCaptain, Bangalore (Oct 2021 - Feb 2022)**:
+  - Orchestrated marketing efforts to boost student engagement and promoted events.
 
-Judgement and Previous Hearings:
-- Bombay High Court upheld the amendments.
-- Supreme Court in Dattatraya Govind Mahajan's case upheld these laws under the protection of Article 31B.
-- The petitions for review of the earlier judgment in Dattatraya Govind Mahajan due to post-emergency conditions were accepted by the Supreme Court.
+**Skills:**
+- Technical: AI, Cloud Computing, Metaverse, IoT, Data Analytics, DBMS
+- Non-Technical: Digital Marketing, Entrepreneurship, Sales, Event Management, Strategic Management, Product Development
 
-Judge’s Observations and Applicable Laws:
-- Article 31A: No law providing for the acquisition of any estate or rights therein by the State shall be void on the ground that it violates Articles 14 or 19.
-- Article 31B: Acts included in the Ninth Schedule cannot be voided for violating fundamental rights.
-- Articles 14, 19 (freedom and equality rights), and 31 (right to property, repealed and replaced) are pivotal in determining the basic structure.
-- Article 368 outlines the procedure and extent of constitutional amendments.
+**Languages:**
+- English, Malayalam, Tamil, Telugu, Hindi
 
-Conclusion:
-1. Articles 31A and 31B do not damage the basic structure of the Constitution; thus, the amendments they protect are valid and constitutional.
-2. All laws placed in the Ninth Schedule before April 24, 1973, remain valid. However, those added after this date are subject to review under the Kesavananda Bharati judgement, which restricts amendments that harm the Constitution's basic structure.
-3. The proclamations of emergency and subsequent extensions of the Lok Sabha, while contentious, were deemed not to have violated the foundational structure of the Constitution.
-4. The result is that the appeal is dismissed, upholding the lower court's decisions and the validity of the Maharashtra Agricultural Lands (Ceiling on Holdings) Act and its amendments.
+**Licenses & Certifications:**
+- "AI for Everyone" (2023) - Coursera
+- "Foundations: Data, Data, Everywhere" (2022) - Coursera
+- Letter of Endorsement for Campus Ambassador (2022) - MyCaptain
+
+**Conferences and Workshops:**
+- Azure Community Conference 2023
+- CTO Talk Annual Summit 2023
+- DevFest 2022 Chennai
+
+**Volunteer Experiences:**
+- Associate Member at Design and Innovation Club, SRM Vadapalani (Aug 2023 - Present)
+- Volunteer at Bhumi-NGO (Jul 2023 - Present)
+- Student Brand Ambassador for G20 (Feb 2022 – Oct 2023)
+- Member of Rotaract Club of SRM Vadapalani (Apr 2021 – Mar 2023)
+
+**Interests:**
+- Marathon running, athletics, cricket, sports, music
