@@ -6,3 +6,4 @@
 .iwimg
 .venv
 .env
+*.json
