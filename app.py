@@ -71,8 +71,8 @@ st.markdown(
             <div class="navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav ms-auto fs-5 text-white">
                     <li class="nav-item"><a class="nav-link" href="#home"><i class='bx bxs-home'></i>Home</a></li>
-                    <li class="nav-item"><a class="nav-link" href="#about"><i class='bx bxs-user'></i>About</a></li>
-                    <li class="nav-item"><a class="nav-link" href="#contact"><i class='bx bxs-envelope'></i>Contact</a></li>
+                    <li class="nav-item"><a class="nav-link" href="http://localhost:3000/about.html#about"><i class='bx bxs-user'></i>About</a></li>
+                    <li class="nav-item"><a class="nav-link" href="http://localhost:3000/about.html#contact"><i class='bx bxs-envelope'></i>Contact</a></li>
                 </ul>
             </div>
         </div>
