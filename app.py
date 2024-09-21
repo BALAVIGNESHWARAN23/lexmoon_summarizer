@@ -53,28 +53,43 @@ def get_image_base64(image_path):
 
 # logo_image_b64 = get_image_base64(logo_image_path)
 # Navbar and header section
-st.markdown('''
+st.markdown(
+        """
+        
+       
+
+</head>
+<body>
+
 <header>
-    <nav id="home" class="navbar navbar-dark navbar-expand-lg">
+    <nav class="navbar navbar-dark navbar-expand-lg">
         <div class="container d-flex align-items-center">
             <div class="d-flex align-items-center">
-               <img src="D:/githubreptasks/lexmoon_summarizer/20240917_222343 (1).png" style="width: 50px; height: auto;"/>
+                <img src="https://example.com/logo.png" style="width: 50px; height: auto;"/>
                 <h1 class="text-white ms-2">Lexmoon</h1>
             </div>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarnav">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarnav">
+            <div class="navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav ms-auto fs-5 text-white">
                     <li class="nav-item"><a class="nav-link" href="#home"><i class='bx bxs-home'></i>Home</a></li>
-                    <li class="nav-item"><a class="nav-link" href="http://localhost:3000/about.html#about"><i class='bx bxs-user'></i>About</a></li>
-                    <li class="nav-item"><a class="nav-link" href="http://localhost:3000/about.html#contact"><i class='bx bxs-envelope'></i>Contact</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#about"><i class='bx bxs-user'></i>About</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#contact"><i class='bx bxs-envelope'></i>Contact</a></li>
                 </ul>
             </div>
         </div>
     </nav>
 </header>
-''', unsafe_allow_html=True)
+
+<script>
+function toggleNavbar() {
+    var navbarCollapse = document.getElementById('navbarSupportedContent');
+    navbarCollapse.classList.toggle('show');
+}
+</script>
+
+
+       
+        """
+    , unsafe_allow_html=True) 
 
 # Function to read PDF content
 def read_pdf(file):

@@ -1,25 +1,28 @@
 Case: Waman Rao And Ors vs Union Of India (Uoi) And Ors.
 
+
 Appeal
 
 Facts:
-The case concerns a legal challenge to the Maharashtra Agricultural Lands (Ceiling on Holdings) Act, 27 of 1961, and its subsequent amendments by Acts 21 of 1975, 41 of 1975, and 2 of 1976. Initially, the Bombay High Court upheld the Act, rejecting claims that it violated the rights conferred by Part III of the Constitution, as the provisions were placed in the Ninth Schedule by the Constitution's 17th and 40th Amendments. The High Court ruled that Article 31B, introduced by the First Amendment Act, 1951, strengthened the Constitution's basic structure. The petitioners argued that specific amendments created an artificial 'family unit' and were beyond the purview of Article 31A, challenging them on various grounds.
+The Maharashtra Agricultural Lands (Ceiling on Holdings) Act, 1961, which limits agricultural landholdings, faced amendments in 1975 and 1976. These amendments were legally challenged in the Bombay High Court, which rejected the claims, stating they aligned with the rights conferred by Part III of the Constitution and were protected under the Ninth Schedule through the Constitution's 17th and 40th Amendments. The High Court's decision, upheld by the Supreme Court in the Dattatraya Govind Mahajan case (1977), ruled that even if the provisions violated the second proviso to Article 31A(1), they were shielded by Article 31B. After the Emergency was revoked, further petitions led to the Supreme Court's decision to reconsider the judgment in Dattatraya Govind Mahajan.
 
 Issues:
-- The primary issue is whether Articles 31A, 31B, and the unamended Article 31C of the Constitution are valid, and if they damage or destroy the basic structure of the Constitution as defined in Kesavananda Bharati.
-- Another issue is whether the laws included in the Ninth Schedule after the decision in Kesavananda Bharati can be challenged.
+1. The constitutionality of Articles 31A, 31B, and the unamended Article 31C.
+2. The application of the doctrine of stare decisis in upholding these Articles.
+3. The justiciability of the proclamations of emergency and subsequent legislation extending the Lok Sabha’s term.
 
-Previous Hearings:
-The validity of the challenged acts and constitutional amendments was previously upheld by this Court in Dattatraya Govind Mahajan v. State of Maharashtra, holding that the amended Principal Act did not violate the second proviso to Article 31A(1), and that Article 31B protected the Acts included in the Ninth Schedule from such challenges. The Court also reviewed whether later proclamations of emergency and extensions of the Lok Sabha's term were valid.
+Judgments Reviewed:
+1. Bombay High Court ruling in Vithalrao Udhaorao Uttarwar v. State of Maharashtra (1976).
+2. Supreme Court ruling in Dattatraya Govind Mahajan v. State of Maharashtra (1977).
 
-Judgment:
-The Court reaffirmed the previous judgements, rejecting the petitioners' appeals.
+Judge's Observations and Applicable Laws:
+Chief Justice Chandrachud and other judges observed that Article 31A was inserted to protect agrarian reform legislation, aiming to subserve a fundamental constitutional purpose. It was held that this amendment did not damage the basic structure of the Constitution, as emphasized by the historical, social, and economic contexts, such as the Objectives Resolution and subsequent amendments.
 
-Judge’s Observations:
-Chief Justice Chandrachud's observations focused on the history, purpose, and legal precedent of agrarian reforms and basic structure doctrine. The judgment reiterated the findings and philosophy established in cases such as Kesavananda Bharati, which established that fundamental constitutional features cannot be altered by amendments. The majority in Kesavananda Bharati upheld the first part of Article 31C while striking down its conclusive declaration provision. The Court emphasized the importance of agrarian reforms as essential to the Constitution's objectives.
+Laws Reviewed:
+- Article 14 and Article 19 (Fundamental Rights).
+- Article 31A protects agrarian reforms from judicial review under Articles 14 and 19.
+- Article 31B offers protective cover to laws listed in the Ninth Schedule against fundamental rights violations.
+- The unamended Article 31C was limited to laws implementing Directive Principles in Clauses (b) and (c) of Article 39.
 
 Conclusion:
-- The Court upheld the constitutional validity of the First and Fourth Amendments introducing and amending Articles 31A, 31B while affirming that no provisions of Part III of the Constitution invalidate the Acts included in the Ninth Schedule prior to April 24, 1973.
-- The validity of laws included in the Ninth Schedule after April 24, 1973, was made conditional on their consistency with the basic structure of the Constitution.
-- The unamended Article 31C's protection was affirmed within the scope validated by Kesavananda Bharati.
-- The writ petitions and review petitions challenging the Maharashtra Agricultural Lands Ceiling Acts were dismissed.
+The Supreme Court upheld the Constitution (First Amendment) Act, 1951, and the Constitution (Fourth Amendment) Act, 1955, deeming them valid and within the constituent power of Parliament. Laws included in the Ninth Schedule before April 24, 1973, were protected against challenges by Articles 14, 19, and 31. Amendments post-April 24, 1973, are subject to scrutiny under the Kesavananda Bharati doctrine to ensure they do not destroy the Constitution's basic structure. Consequently, the writ petitions and review petitions contesting Maharashtra Agricultural Lands Ceiling Acts were dismissed with costs.
